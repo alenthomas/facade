@@ -1,0 +1,3 @@
+#+TITLE: Facade
+* One App to get them all
+  - serves media contents from various socia networking sites under one roof.
